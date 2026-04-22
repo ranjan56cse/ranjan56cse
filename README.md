@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ranjankn/"><img src="https://img.shields.io/badge/LinkedIn-Ranjan%20Nayak-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:ranjan56cse@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/ranjan56cse"><img src="https://img.shields.io/badge/GitHub-ranjan56cse-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://ltrc.iiit.ac.in/"><img src="https://img.shields.io/badge/IIIT_Hyderabad-LTRC_Lab-A56FA8?style=for-the-badge&logoColor=white" alt="IIIT Hyderabad"/></a>
   <img src="https://komarev.com/ghpvc/?username=ranjan56cse&label=Profile+Views&color=F59E0B&style=for-the-badge" alt="Profile Views"/>
@@ -12,11 +12,11 @@
 
 ---
 
-### 🧭 The Real Arc — 19 Years in Data, Now Building AI
+### 🧭 Amplifying the power of Data with AI
 
-I didn't pivot into AI overnight. I earned it — one production data system at a time.
+It took me a while to get here — but every step mattered.
 
-**Enterprise Data, from the ground up.** I started as a Software Engineer at **Infosys** in 2005, writing ETL pipelines for health insurance claims systems at WellPoint and Aetna. Then **Wipro**, where I learned analytics through Market Basket Analysis and customer segmentation. Then **14+ years at Teradata** — delivering enterprise data platforms across four continents: Mumbai, Pune, Hyderabad, Sydney, and Helsinki.
+**Enterprise Data, from the ground up.** I started as a Software Engineer at **Infosys** in 2005, writing ETL pipelines for health insurance claims systems at WellPoint and Aetna. Then **Wipro**, where I learned analytics through Market Basket Analysis and customer segmentation. Then **14+ years at Teradata** — delivering enterprise data platforms in various domain and across different geographical locations. 
 
 **Scale, not sprint.** At Teradata, I architected a data lakehouse for **350M+ policyholders** at one of Asia's largest insurance providers, migrated **10,000+ Teradata/COBOL scripts** at Westpac Australia, led **BCBS 239 risk compliance** at Maybank, delivered **MIFID-II regulatory reporting** at OP Financial Finland, and drove **17% operational efficiency** through platform consolidation at SC Johnson. Every engagement meant walking into someone else's data chaos and leaving behind something that ran, complied, and scaled.
 
