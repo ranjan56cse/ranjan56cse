@@ -109,10 +109,10 @@ It took me a while to get here — but every step mattered.
 
 ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=flat-square&logo=teradata&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
 ![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logoColor=white)
 
 **🔄 ETL, Modeling & Governance**
 
@@ -127,8 +127,8 @@ It took me a while to get here — but every step mattered.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 **🧠 LLMs, RAG & Research**
 
@@ -143,16 +143,14 @@ It took me a while to get here — but every step mattered.
 ![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009845?style=flat-square&logo=qlik&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Actuate](https://img.shields.io/badge/Actuate_BIRT-005EB8?style=flat-square&logoColor=white)
 
 **🔧 MLOps & DevOps**
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Unix](https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=white)
+![Unix](https://img.shields.io/badge/Unix-000000?style=flat-square&logoColor=white)
 
 ---
 
