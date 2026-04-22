@@ -118,7 +118,6 @@ It took me a while to get here — but every step mattered.
 
 ![Informatica](https://img.shields.io/badge/Informatica-FF4B00?style=flat-square&logoColor=white)
 ![Informatica MDM](https://img.shields.io/badge/Informatica_MDM-FF4B00?style=flat-square&logoColor=white)
-![DataStage](https://img.shields.io/badge/IBM_DataStage-1F70C1?style=flat-square&logo=ibm&logoColor=white)
 ![Erwin](https://img.shields.io/badge/Erwin_Data_Modeler-005EB8?style=flat-square&logoColor=white)
 ![BTEQ](https://img.shields.io/badge/BTEQ-F37440?style=flat-square&logoColor=white)
 ![FSLDM](https://img.shields.io/badge/Teradata_FSLDM-F37440?style=flat-square&logoColor=white)
@@ -130,7 +129,6 @@ It took me a while to get here — but every step mattered.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
 
 **🧠 LLMs, RAG & Research**
 
@@ -196,24 +194,7 @@ Onsite · Offshore · Global Delivery Model — often in customer-facing advisor
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjan56cse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=F59E0B&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=ranjan56cse&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan56cse&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=FFFFFF&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-**📅 Commit Activity**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranjan56cse&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2563EB&line=F59E0B&point=2563EB&area=true&area_color=A56FA8" alt="Activity Graph" />
-</p>
-
----
 
 ### 💡 What I'm Looking For
 
@@ -224,7 +205,7 @@ Onsite · Offshore · Global Delivery Model — often in customer-facing advisor
 > I bring 19 years of enterprise data depth, a deliberate pivot into AI research, and the rare combination of someone who can design a data schema *and* train the model that queries it.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
+  <a href="https://www.linkedin.com/in/ranjankn/">
     <img src="https://img.shields.io/badge/Let's_Connect-on_LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
 </p>
