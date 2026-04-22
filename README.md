@@ -166,17 +166,6 @@ It took me a while to get here — but every step mattered.
 
 ---
 
-### 🌏 Global Delivery Footprint
-
-```
-   🇮🇳 India       →  Mumbai, Pune, Hyderabad, Kolkata, Bhubaneswar
-   🇦🇺 Australia   →  Sydney (Westpac, Vodafone)
-   🇫🇮 Finland     →  Helsinki (OP Financial)
-   🇲🇾 Malaysia    →  (Maybank, CelcomDigi)
-   🇸🇬 Singapore   →  Client engagements
-```
-
-Onsite · Offshore · Global Delivery Model — often in customer-facing advisory roles.
 
 ---
 
