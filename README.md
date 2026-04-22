@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Data+Engineer+%E2%86%92+AI+Engineering+%7C+NLP+%26+LLMs+for+Enterprise+Data;Research+Assistant+%40+LTRC%2C+IIIT+Hyderabad;19+Years+%40+Teradata%2C+Wipro%2C+Infosys+%7C+Ex-Solution+Consultant;Building+Text-to-SQL+for+the+Enterprise+Era;Banking+%7C+Insurance+%7C+Telecom+%7C+Healthcare+%7C+Retail+%7C+CPG)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-Ranjan%20Nayak-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/ranjankn/"><img src="https://img.shields.io/badge/LinkedIn-Ranjan%20Nayak-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/ranjan56cse"><img src="https://img.shields.io/badge/GitHub-ranjan56cse-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://ltrc.iiit.ac.in/"><img src="https://img.shields.io/badge/IIIT_Hyderabad-LTRC_Lab-A56FA8?style=for-the-badge&logoColor=white" alt="IIIT Hyderabad"/></a>
